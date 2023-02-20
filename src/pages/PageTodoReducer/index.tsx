@@ -1,6 +1,5 @@
 import React, { useReducer, useState } from "react";
 
-// entities
 interface ITodo {
   id: string;
   description: string;
