@@ -19,6 +19,7 @@ type ITodoAction =
 const initialState: ITodo[] = [];
 
 // usecases
+//
 
 class TodoUseCases {
   constructor(private state: ITodo[]) {}
