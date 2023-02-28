@@ -20,6 +20,7 @@ const initialState: ITodo[] = [];
 
 // usecases
 
+// another
 // before
 class TodoUseCases {
   constructor(private state: ITodo[]) {}
