@@ -19,7 +19,7 @@ type ITodoAction =
 const initialState: ITodo[] = [];
 
 // usecases
-
+// queue
 // another
 // before
 class TodoUseCases {
